@@ -1,0 +1,9 @@
+{
+  "generator-symfony-rest": {
+    "name": "dev_symfony_angular",
+    "database_name": "symfonyAngular",
+    "database_user": "root",
+    "database_password": "null",
+    "secret_token": "CDE24FC9CADA5431CFEE8E8361A21"
+  }
+}
